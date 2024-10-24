@@ -1,0 +1,13 @@
+/*
+ * Custom CSS
+ */
+
+ :root {
+    --bs-body-bg: var(--bs-gray-100);
+  }
+  
+
+  .bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgb(6 113 220) !important;
+}
